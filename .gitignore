@@ -1,3 +1,6 @@
+# Add large files
+vine_table.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
