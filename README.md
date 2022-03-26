@@ -2,25 +2,35 @@
 # Overview of the analysis
 
 The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. 
-We used PySpark, Pandas, and SQL to determine if there is any bias toward favorable reviews from Vine members in our dataset.  
+In this analysis, different tools were used such as PySpark, Pandas, and SQL to determine if there is any bias toward favorable reviews from Vine members in our dataset.  
 
 Dataset url: "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_01.tsv.gz"
 
-Tools used:  PySpark, Pandas, and SQL
+Tools used:  PySpark, Pandas, Google Colab Notebook, AWS Storage, SQL and pgAdmnin.
 
 # Results:
 
-The following questions were answered during the analysis:
+The results of the analysis are as follow:
 
+    How many Vine reviews and non-Vine reviews were there?
  - There was a total of 4,781 Vine reviews and 33,2395 non-Vine reviews.
 
- - 1,604 Vine reviews were 5 stars, and 16,8800 non-Vine reviews were 5 stars.
+    How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+ - There were 1,604 five-star Vine reviews 
+ - There were 16,8800 five-star non-Vine reviews
 
- - 0.94% of Vine reviews were 5 stars, and 99.06% of non-Vine reviews were 5 stars.
+    What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+ - There was a total of 170,404 five-star reviews
+ - The percentage of five-star Vine reviews over total five-star reviews was 0.94% 
+ - The percentage of five-star non-Vine reviews over total five-star reviews was 99.06% 
+ - The percentage of five-star Vine reviews over total reviews was 0.48%
+ - The percentage of five-star non-Vine reviews over total reviews was 50.06%
+ - The percentage of five-star Vine reviews over total Vine reviews was 33.55%
+ - The percentage of five-star non-Vine reviews over total non-Vine reviews was 50.78%
 
 
+# Summary: 
 
-# Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one
- additional analysis that you could do with the dataset to support your statement.
-
- 
+The results of the analysis demonstrate that there is a low chance of positivity bias in the Vine program.
+In fact, the percentage of five-star Vine reviews over the total number of five-star reviews was lower than 1%. Also, there was 0.48% of five-star Vinr reviews of the overall number of reviews.
+In addition, there are 33.55% over five-star vine reviews of the total number of vine reviews, which is considerably lower compared to 50.78% of five-star non-Vine reviews over the total number of non-Vine reviews.
