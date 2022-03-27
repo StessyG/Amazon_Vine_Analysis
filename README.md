@@ -21,26 +21,26 @@ The results of the analysis are as follow:
  - There were 1,604 five-star Vine reviews 
  - There were 16,8800 five-star non-Vine reviews
 
-[!image1](https://github.com/StessyG/Amazon_Vine_Analysis/blob/fa30361dc4ad281a797c54d0e000b6850d3ab785/images/image1.png)
+![image1](https://github.com/StessyG/Amazon_Vine_Analysis/blob/fa30361dc4ad281a797c54d0e000b6850d3ab785/images/image1.png)
 
        What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
  - There was a total of 170,404 five-star reviews
  - The percentage of five-star Vine reviews over total five-star reviews was 0.94% 
  - The percentage of five-star non-Vine reviews over total five-star reviews was 99.06% 
 
-[!five_star](https://github.com/StessyG/Amazon_Vine_Analysis/blob/fa30361dc4ad281a797c54d0e000b6850d3ab785/images/five_star.png)
+![five_star](https://github.com/StessyG/Amazon_Vine_Analysis/blob/fa30361dc4ad281a797c54d0e000b6850d3ab785/images/five_star.png)
 
 
  - The percentage of five-star Vine reviews over total reviews was 0.48%
  - The percentage of five-star non-Vine reviews over total reviews was 50.06%
 
-[!five_total](https://github.com/StessyG/Amazon_Vine_Analysis/blob/fa30361dc4ad281a797c54d0e000b6850d3ab785/images/five_total.png)
+![five_total](https://github.com/StessyG/Amazon_Vine_Analysis/blob/fa30361dc4ad281a797c54d0e000b6850d3ab785/images/five_total.png)
 
 
  - The percentage of five-star Vine reviews over total Vine reviews was 33.55%
  - The percentage of five-star non-Vine reviews over total non-Vine reviews was 50.78%
 
-[!five_vine](https://github.com/StessyG/Amazon_Vine_Analysis/blob/fa30361dc4ad281a797c54d0e000b6850d3ab785/images/five_vine.png)
+![five_vine](https://github.com/StessyG/Amazon_Vine_Analysis/blob/fa30361dc4ad281a797c54d0e000b6850d3ab785/images/five_vine.png)
 
 
 
