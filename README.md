@@ -18,13 +18,13 @@ The results of the analysis are as follow:
 
 
        How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+ - There was a total of 170,404 five-star reviews     
  - There were 1,604 five-star Vine reviews 
- - There were 16,8800 five-star non-Vine reviews
+ - There were 168,800 five-star non-Vine reviews
 
 ![image1](https://github.com/StessyG/Amazon_Vine_Analysis/blob/fa30361dc4ad281a797c54d0e000b6850d3ab785/images/image1.png)
 
        What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
- - There was a total of 170,404 five-star reviews
  - The percentage of five-star Vine reviews over total five-star reviews was 0.94% 
  - The percentage of five-star non-Vine reviews over total five-star reviews was 99.06% 
 
