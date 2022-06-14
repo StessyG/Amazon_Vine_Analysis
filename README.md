@@ -6,7 +6,7 @@ In this analysis, different tools were used such as PySpark, Pandas, and SQL to 
 
 Dataset url: "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Books_v1_01.tsv.gz"
 
-Tools used:  PySpark, Pandas, Google Colab Notebook, AWS Storage, SQL and pgAdmnin.
+Tools used:  PySpark, Jupyter Notebook, Google Colab Notebook, AWS Storage, SQL and pgAdmnin.
 
 # Results:
 
